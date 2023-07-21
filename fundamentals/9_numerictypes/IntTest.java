@@ -3,6 +3,6 @@ public class IntTest{
 	    int myInt = 2;
 		long mylong = 6L;
 		
-		System.out.println(mylong);
+		System.out.println(myInt);
 	}	
 }	
